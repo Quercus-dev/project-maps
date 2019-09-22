@@ -12,6 +12,14 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Gulp files
+
+# yarn.lock
+# dist
+# package-lock.json
+# package.json
+
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
